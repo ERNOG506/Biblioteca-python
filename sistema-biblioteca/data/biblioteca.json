@@ -1,0 +1,22 @@
+{
+  "livros": [
+    {
+      "codigo": 1,
+      "titulo": "eu",
+      "autor": "2",
+      "ano": 456677,
+      "disponivel": true
+    },
+    {
+      "codigo": 2,
+      "titulo": "eu",
+      "autor": "eu",
+      "ano": 2002,
+      "disponivel": true
+    }
+  ],
+  "usuarios": [],
+  "emprestimos": [],
+  "proximo_codigo_livro": 3,
+  "proximo_codigo_usuario": 1
+}
