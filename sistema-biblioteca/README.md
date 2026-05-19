@@ -48,7 +48,7 @@ sistema-biblioteca/
 Entre na pasta do projeto:
 
 ```powershell
-cd "C:\Users\nogue\Documents\Codex\projetos\sistema-biblioteca"
+cd "C:\sistema-biblioteca"
 ```
 
 Execute o sistema:
