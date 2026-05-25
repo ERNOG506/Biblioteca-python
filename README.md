@@ -98,11 +98,3 @@ area de tecnologia:
 - testes automatizados;
 - documentacao para GitHub.
 
-## Possiveis melhorias futuras
-
-- Interface grafica
-- Login de administrador
-- Relatorio de livros mais emprestados
-- Prazo de devolucao
-- Multa por atraso
-- API com Flask ou FastAPI
